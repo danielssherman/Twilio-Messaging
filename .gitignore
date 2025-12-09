@@ -1,0 +1,8 @@
+# Binaries
+ngrok
+
+# OS files
+.DS_Store
+
+# Environment files
+.env

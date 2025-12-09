@@ -1,6 +1,6 @@
-# Daily Mantras SMS Project
+# SMS Project
 
-This folder contains everything you need to run your daily mantra SMS service.
+This folder contains everything you need to run your SMS service.
 
 ## Project Files
 
